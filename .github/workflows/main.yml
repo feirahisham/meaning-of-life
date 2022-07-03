@@ -17,4 +17,4 @@ jobs:
           server: ftp.feirahisham.com
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          server-dir: /home/feirahis/meaning-of-life.feirahisham.com
+          server-dir: /home/feirahis/meaning-of-life.feirahisham.com/
