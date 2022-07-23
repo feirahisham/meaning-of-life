@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+  font-family: 'Catamaran', sans-serif;
+}
+.arabic-line {
+  font-family: 'Scheherazade New', serif;
+  font-size: 40px;
+}
+
+.translation-line {
+  font-size: 30px;
+  font-weight: 400;
+}

@@ -1,7 +1,15 @@
 import "./App.css";
+import WithTranslation from "./WithTranslation";
 
 const App = () => {
-  return <h1>Meaning of Life by Feira Hisham</h1>;
+  return (
+    <div>
+      <h1>
+        Meaning of Life by <i>Feira Hisham</i>
+      </h1>
+      <WithTranslation />
+    </div>
+  );
 };
 
 export default App;
